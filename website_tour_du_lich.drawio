@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Trang-1" id="_PmkaIuC3KLsDh20IOWu">
+    <mxGraphModel dx="3756" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SeagR9WvdwXPWD--z10i-1" value="Khách hàng&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-2" value="Nhân viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="850" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-3" value="Website đặt tour du lịch trực tuyến" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="470" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-4" value="Xem tour, địa điểm, khyến mãi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="45" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-5" value="Tìm kiếm tour" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="145" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-6" value="Đặt tour trực tuyến" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="245" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-7" value="Thanh toán tour" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-8" value="Quản lý đơn đặt tour&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-9" value="Yêu cầu hủy/ Thay đổi tour" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="445" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-10" value="Tạo/Cập nhật tour" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-11" value="Xử lý hủy/hoàn tiền" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-12" value="Thống kê doanh thu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="10" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-13" value="Quản lý nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="330" y="605" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-14" value="Phân công hướng dẫn viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="330" y="705" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-15" value="Xem báo cáo doanh thu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="330" y="805" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-16" value="Cập nhật chức năng hệ thống" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="330" y="445" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-17" value="Quản lý phân quyền" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="330" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-18" value="Xem tour được phân công" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SeagR9WvdwXPWD--z10i-3">
+          <mxGeometry x="330" y="145" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-19" value="Quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="750" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-20" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-21" value="Hướng dẫn viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-1" target="SeagR9WvdwXPWD--z10i-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="310" as="sourcePoint" />
+            <mxPoint x="590" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-1" target="SeagR9WvdwXPWD--z10i-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="440" as="sourcePoint" />
+            <mxPoint x="590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-1" target="SeagR9WvdwXPWD--z10i-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="440" as="sourcePoint" />
+            <mxPoint x="590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.667;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-1" target="SeagR9WvdwXPWD--z10i-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="440" as="sourcePoint" />
+            <mxPoint x="590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-1" target="SeagR9WvdwXPWD--z10i-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="440" as="sourcePoint" />
+            <mxPoint x="590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-1" target="SeagR9WvdwXPWD--z10i-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="440" as="sourcePoint" />
+            <mxPoint x="590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-2" target="SeagR9WvdwXPWD--z10i-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="820" as="sourcePoint" />
+            <mxPoint x="590" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-2" target="SeagR9WvdwXPWD--z10i-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="820" as="sourcePoint" />
+            <mxPoint x="590" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-2" target="SeagR9WvdwXPWD--z10i-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="820" as="sourcePoint" />
+            <mxPoint x="590" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-18" target="SeagR9WvdwXPWD--z10i-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="440" as="sourcePoint" />
+            <mxPoint x="590" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-17" target="SeagR9WvdwXPWD--z10i-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="690" as="sourcePoint" />
+            <mxPoint x="590" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-16" target="SeagR9WvdwXPWD--z10i-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="690" as="sourcePoint" />
+            <mxPoint x="590" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-13" target="SeagR9WvdwXPWD--z10i-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="950" as="sourcePoint" />
+            <mxPoint x="590" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-14" target="SeagR9WvdwXPWD--z10i-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="950" as="sourcePoint" />
+            <mxPoint x="590" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-15" target="SeagR9WvdwXPWD--z10i-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="950" as="sourcePoint" />
+            <mxPoint x="590" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SeagR9WvdwXPWD--z10i-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SeagR9WvdwXPWD--z10i-2" target="SeagR9WvdwXPWD--z10i-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="590" as="sourcePoint" />
+            <mxPoint x="770" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
