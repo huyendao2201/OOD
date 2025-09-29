@@ -1,0 +1,9 @@
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\bin\Debug\Lab2_ThucHanh2.exe.config
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\bin\Debug\Lab2_ThucHanh2.exe
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\bin\Debug\Lab2_ThucHanh2.pdb
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\obj\Debug\Lab2_ThucHanh2.csproj.AssemblyReference.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\obj\Debug\Lab2_ThucHanh2.Properties.Resources.resources
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\obj\Debug\Lab2_ThucHanh2.csproj.GenerateResource.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\obj\Debug\Lab2_ThucHanh2.csproj.CoreCompileInputs.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\obj\Debug\Lab2_ThucHanh2.exe
+C:\Study\HCMUNRE\OOD\Code\Lab2_ThucHanh2\Lab2_ThucHanh2\obj\Debug\Lab2_ThucHanh2.pdb

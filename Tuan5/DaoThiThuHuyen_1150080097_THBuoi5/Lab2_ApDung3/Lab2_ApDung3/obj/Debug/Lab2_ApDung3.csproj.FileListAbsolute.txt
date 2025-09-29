@@ -1,0 +1,9 @@
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\bin\Debug\Lab2_ApDung3.exe.config
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\bin\Debug\Lab2_ApDung3.exe
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\bin\Debug\Lab2_ApDung3.pdb
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\obj\Debug\Lab2_ApDung3.csproj.AssemblyReference.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\obj\Debug\Lab2_ApDung3.Properties.Resources.resources
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\obj\Debug\Lab2_ApDung3.csproj.GenerateResource.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\obj\Debug\Lab2_ApDung3.csproj.CoreCompileInputs.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\obj\Debug\Lab2_ApDung3.exe
+C:\Study\HCMUNRE\OOD\Code\Lab2_ApDung3\Lab2_ApDung3\obj\Debug\Lab2_ApDung3.pdb

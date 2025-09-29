@@ -1,0 +1,9 @@
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Study\HCMUNRE\OOD\Code\Lab2\Lab2\obj\Debug\Lab2.pdb
